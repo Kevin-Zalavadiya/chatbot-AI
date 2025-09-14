@@ -1,0 +1,21 @@
+Disease Name,ICD Code,Symptoms,Homeopathy Medicines,Source
+Cheilitis,DA00.0,"Dry lips, cracking, pain, redness, swelling, burning sensation","Natrum mur, Petroleum, Graphites","Boericke Materia Medica, Kent Repertory"
+Oral leukoplakia,DA01.00,"White patches in mouth, irritation, difficulty chewing, burning sensation, soreness","Borax, Thuja, Nitric acid","Clarke Dictionary, Boericke"
+Oral aphthae (Mouth ulcers),DA01.10,"Painful ulcers, burning sensation, red border, difficulty eating, white patches, recurrent sores","Borax, Merc sol, Nitric acid",Boericke Materia Medica
+Oral mucositis,DA01.11,"Mouth sores, redness, bleeding gums, pain, swelling, burning sensation","Calendula, Merc sol, Arsenicum album","Boericke, Kent Repertory"
+Geographic tongue,DA03.1,"Red patches, burning sensation, sensitivity to spicy food, irritation, change in taste","Taraxacum, Arsenicum album, Merc sol",Boericke Materia Medica
+Macroglossia,DA03.5,"Enlarged tongue, speech issues, airway obstruction, difficulty swallowing, drooling","Calcarea carb, Baryta carb",Clarke Dictionary
+Sialadenitis,DA04.2,"Swollen salivary gland, pain, fever, pus discharge, difficulty opening mouth","Belladonna, Merc sol, Hepar sulph","Boericke, Kent Repertory"
+Sialolithiasis,DA04.4,"Salivary gland stone, swelling, pain while eating, reduced saliva, recurrent infections","Calcarea fluor, Silicea",Boericke Materia Medica
+Teething syndrome,DA07.60,"Irritability, drooling, swollen gums, loss of appetite, sleeplessness, biting tendency","Chamomilla, Calcarea carb",Boericke Materia Medica
+Dental caries,DA08.0,"Toothache, cavities, sensitivity, bad breath, pain on chewing, black spots on teeth","Kreosotum, Merc sol, Silicea","Kent Repertory, Boericke"
+Pulpitis,DA09.0,"Severe tooth pain, sensitivity to hot/cold, throbbing pain, swelling, night aggravation","Belladonna, Spigelia",Boericke Materia Medica
+Periapical abscess,DA09.6,"Severe toothache, pus discharge, facial swelling, throbbing pain, fever, bad breath","Hepar sulph, Merc sol, Silicea",Boericke Materia Medica
+Periodontitis (Acute),DA0C.0,"Swollen gums, bleeding, tooth loosening, pain on chewing, pus pockets, bad breath","Merc sol, Hepar sulph",Kent Repertory
+Gingivitis,DA0B,"Red gums, bleeding, tenderness, swelling, bad breath, painful chewing","Merc sol, Kreosotum",Boericke Materia Medica
+GERD (Gastro-oesophageal reflux),DA22,"Heartburn, regurgitation, chest pain, dry cough, sour taste, difficulty swallowing","Robinia, Nux vomica, Carbo veg",Boericke Materia Medica
+Gastritis (H. pylori),DA42.1,"Stomach pain, nausea, indigestion, vomiting, bloating, acidity","Nux vomica, Carbo veg, Arsenicum album",Boericke Materia Medica
+Duodenitis,DA51.0,"Abdominal pain, bloating, nausea, vomiting, indigestion, burning pain after meals","Kali bichromicum, Arsenicum album",Boericke Materia Medica
+Oesophageal ulcer,DA25.1,"Pain swallowing, chest pain, nausea, vomiting blood, weight loss, heartburn","Robinia, Kali bichromicum",Boericke Materia Medica
+Oesophagitis,DA24.0,"Painful swallowing, chest discomfort, burning sensation, cough, nausea, regurgitation","Nux vomica, Arsenicum album",Boericke Materia Medica
+Dental abscess,DA09.62,"Severe toothache, swelling, pus discharge, bad breath, throbbing pain, fever","Hepar sulph, Merc sol, Silicea","Kent Repertory, Boericke"
