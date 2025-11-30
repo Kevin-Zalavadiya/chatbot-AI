@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Health Chatbot
 
 A web-based health chatbot that provides homeopathy medicines and home remedies based on diseases and symptoms.
@@ -98,3 +99,6 @@ Feel free to contribute by:
 ## License
 
 This project is open source and available under the MIT License.
+=======
+# -chatbot-
+>>>>>>> 810625a23365d40c17ca95e4c7a41734e1cb5cb9
