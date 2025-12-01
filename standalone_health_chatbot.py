@@ -119,7 +119,7 @@ class HealthChatbot:
         return self.get_treatment(symptoms, treatment_type)
 
 # Initialize chatbot
-API_KEY = "AIzaSyAquFtvl1hpeEWB4AzDploXMyygZwIWqWI"  # Update this with your API key
+API_KEY = "AIzaSyCLcDWRmx4F-aHMuXqj0Ot8VGkYEateK8w"  # Update this with your API key
 bot = HealthChatbot(API_KEY)
 
 # HTML Template

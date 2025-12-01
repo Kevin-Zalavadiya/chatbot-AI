@@ -128,7 +128,7 @@ def main():
     print("=" * 60)
     
     # Initialize chatbot with your API key
-    bot = HealthChatbot("AIzaSyAquFtvl1hpeEWB4AzDploXMyygZwIWqWI")
+    bot = HealthChatbot("AIzaSyCLcDWRmx4F-aHMuXqj0Ot8VGkYEateK8w")
     
     print("\n🤖 How can I help you today?")
     
